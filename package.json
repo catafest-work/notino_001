@@ -1,0 +1,23 @@
+{
+  "name": "notino_001",
+  "version": "1.0.0",
+  "description": "test notino tool with SDK ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "dotenv": "^16.4.5"
+  },
+  "keywords": [
+    "catafest",
+    "catafest-work",
+    "notino"
+  ],
+  "author": "catafest-work",
+  "license": "ISC",
+  "type": "module"
+}
