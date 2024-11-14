@@ -3,6 +3,7 @@
 ## token
 
 https://www.notion.so/profile/integrations
+... token din .env are not real !
 
 ## only two files 
 
